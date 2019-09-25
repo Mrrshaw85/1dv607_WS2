@@ -1,0 +1,11 @@
+C:\Users\Kong\Documents\Högskola\Webbprogrammering LNU\1dv607\1dv607_WS2\bin\Debug\netcoreapp2.2\1dv607_WS2.deps.json
+C:\Users\Kong\Documents\Högskola\Webbprogrammering LNU\1dv607\1dv607_WS2\bin\Debug\netcoreapp2.2\1dv607_WS2.runtimeconfig.json
+C:\Users\Kong\Documents\Högskola\Webbprogrammering LNU\1dv607\1dv607_WS2\bin\Debug\netcoreapp2.2\1dv607_WS2.runtimeconfig.dev.json
+C:\Users\Kong\Documents\Högskola\Webbprogrammering LNU\1dv607\1dv607_WS2\bin\Debug\netcoreapp2.2\1dv607_WS2.dll
+C:\Users\Kong\Documents\Högskola\Webbprogrammering LNU\1dv607\1dv607_WS2\bin\Debug\netcoreapp2.2\1dv607_WS2.pdb
+C:\Users\Kong\Documents\Högskola\Webbprogrammering LNU\1dv607\1dv607_WS2\obj\Debug\netcoreapp2.2\1dv607_WS2.csprojAssemblyReference.cache
+C:\Users\Kong\Documents\Högskola\Webbprogrammering LNU\1dv607\1dv607_WS2\obj\Debug\netcoreapp2.2\1dv607_WS2.csproj.CoreCompileInputs.cache
+C:\Users\Kong\Documents\Högskola\Webbprogrammering LNU\1dv607\1dv607_WS2\obj\Debug\netcoreapp2.2\1dv607_WS2.AssemblyInfoInputs.cache
+C:\Users\Kong\Documents\Högskola\Webbprogrammering LNU\1dv607\1dv607_WS2\obj\Debug\netcoreapp2.2\1dv607_WS2.AssemblyInfo.cs
+C:\Users\Kong\Documents\Högskola\Webbprogrammering LNU\1dv607\1dv607_WS2\obj\Debug\netcoreapp2.2\1dv607_WS2.dll
+C:\Users\Kong\Documents\Högskola\Webbprogrammering LNU\1dv607\1dv607_WS2\obj\Debug\netcoreapp2.2\1dv607_WS2.pdb
