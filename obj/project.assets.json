@@ -686,24 +686,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kong\\.nuget\\packages\\": {},
+    "C:\\Users\\stenlthi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kong\\Documents\\Högskola\\Webbprogrammering LNU\\1dv607\\1dv607_WS2\\1dv607_WS2.csproj",
+      "projectUniqueName": "c:\\Users\\stenlthi\\Documents\\Högskola\\WP\\1dv607\\1dv607_WS2\\1dv607_WS2.csproj",
       "projectName": "1dv607_WS2",
-      "projectPath": "C:\\Users\\Kong\\Documents\\Högskola\\Webbprogrammering LNU\\1dv607\\1dv607_WS2\\1dv607_WS2.csproj",
-      "packagesPath": "C:\\Users\\Kong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kong\\Documents\\Högskola\\Webbprogrammering LNU\\1dv607\\1dv607_WS2\\obj\\",
+      "projectPath": "c:\\Users\\stenlthi\\Documents\\Högskola\\WP\\1dv607\\1dv607_WS2\\1dv607_WS2.csproj",
+      "packagesPath": "C:\\Users\\stenlthi\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\stenlthi\\Documents\\Högskola\\WP\\1dv607\\1dv607_WS2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Kong\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\stenlthi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
