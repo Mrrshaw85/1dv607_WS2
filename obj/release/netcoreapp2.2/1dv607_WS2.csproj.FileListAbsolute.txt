@@ -1,0 +1,11 @@
+C:\Users\stenlthi\Documents\Högskola\WP\1dv607\1dv607_WS2\bin\release\netcoreapp2.2\1dv607_WS2.deps.json
+C:\Users\stenlthi\Documents\Högskola\WP\1dv607\1dv607_WS2\bin\release\netcoreapp2.2\1dv607_WS2.runtimeconfig.json
+C:\Users\stenlthi\Documents\Högskola\WP\1dv607\1dv607_WS2\bin\release\netcoreapp2.2\1dv607_WS2.runtimeconfig.dev.json
+C:\Users\stenlthi\Documents\Högskola\WP\1dv607\1dv607_WS2\bin\release\netcoreapp2.2\1dv607_WS2.dll
+C:\Users\stenlthi\Documents\Högskola\WP\1dv607\1dv607_WS2\bin\release\netcoreapp2.2\1dv607_WS2.pdb
+C:\Users\stenlthi\Documents\Högskola\WP\1dv607\1dv607_WS2\obj\release\netcoreapp2.2\1dv607_WS2.csprojAssemblyReference.cache
+C:\Users\stenlthi\Documents\Högskola\WP\1dv607\1dv607_WS2\obj\release\netcoreapp2.2\1dv607_WS2.csproj.CoreCompileInputs.cache
+C:\Users\stenlthi\Documents\Högskola\WP\1dv607\1dv607_WS2\obj\release\netcoreapp2.2\1dv607_WS2.AssemblyInfoInputs.cache
+C:\Users\stenlthi\Documents\Högskola\WP\1dv607\1dv607_WS2\obj\release\netcoreapp2.2\1dv607_WS2.AssemblyInfo.cs
+C:\Users\stenlthi\Documents\Högskola\WP\1dv607\1dv607_WS2\obj\release\netcoreapp2.2\1dv607_WS2.dll
+C:\Users\stenlthi\Documents\Högskola\WP\1dv607\1dv607_WS2\obj\release\netcoreapp2.2\1dv607_WS2.pdb
